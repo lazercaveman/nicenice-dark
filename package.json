@@ -1,8 +1,15 @@
 {
     "name": "nice-nice-dark",
+    "publisher": "AliSoueidan",
+    "author": "Ali Soueidan <hello@alisoueidan.com> (https://alisoueidan.com/)",
     "displayName": "NiceNice Dark",
     "description": "A nice dark theme called NiceNice 🤓",
     "version": "0.0.1",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lazercaveman/nicenice-dark"
+    },
+    "private": true,
     "engines": {
         "vscode": "^1.63.0"
     },
